@@ -6829,7 +6829,7 @@ if (isBanChat) return reply(mess.banChat)
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "YouTube📍",
+						"displayText": "Instagram 📍",
 						"url": `${websitex}`
 						}
 					}
@@ -6855,7 +6855,7 @@ if (isBanChat) return reply(mess.banChat)
                     var but = [
 				{
 					"urlButton": {
-						"displayText": "YouTube📍",
+						"displayText": "Instagram 📍",
 						"url": `${websitex}`
 						}
 					}

@@ -8779,7 +8779,7 @@ if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
 	                let btn = [{
                                 urlButton: {
-                                    displayText: 'YouTube 🍒',
+                                    displayText: 'Instagram 🍒',
                                     url: `${websitex}`
                                 }
                             }, {
@@ -8868,11 +8868,6 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										"title": "Maker Menu 🌈",
 										"description": "Displays The List Of Logo Making Features",
 										"rowId": `${prefix}indomenu`
-									},
-									{
-										"title": "Sound Menu 🎵",
-										"description": "Displays The List Of Sound Features",
-										"rowId": `${prefix}soundmenu`
 									},
 									{
 										"title": "Download Menu ↘️",

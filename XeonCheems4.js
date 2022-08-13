@@ -1234,7 +1234,7 @@ if (q.includes('--help')) return reply(examkosong)
      teksehmazeh += `*🐄Cow* : ${getSapi(m.sender)}\n`
      teksehmazeh += `*🐘Elephant* : ${getGajah(m.sender)}\n\n`
      teksehmazeh += `_*${pushname}*_`
-     await XeonBotInc.send5ButImg(from, `` + '' + teksehmazeh, `© ${botname}`, XeonBotInc, [{"urlButton": {"displayText": "YouTube📍","url": `${websitex}`}}])
+     await XeonBotInc.send5ButImg(from, `` + '' + teksehmazeh, `© ${botname}`, XeonBotInc, [{"urlButton": {"displayText": "Instagram 📍","url": `${websitex}`}}])
   }
   break
         case 'userlimit': 
@@ -3224,7 +3224,7 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'Instagram 🍓',
 url: `${global.websitex}`
 }
 }, {
@@ -3265,7 +3265,7 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'Instagram 🍓',
 url: `${global.websitex}`
 }
 }, {
@@ -3307,7 +3307,7 @@ if (!isCreator) return replay(mess.owner)
                     await sleep(1500)
                     let butoon = [{
                                 urlButton: {
-                                displayText: 'YouTube 🍓',
+                                displayText: 'Instagram 🍓',
 url: `${global.websitex}`
                                 }
                             }, {

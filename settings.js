@@ -69,8 +69,8 @@ global.websitex = "https://instagram.com/arrhmdfauzan_" //ur website to be displ
 global.botscript = 'https://instagram.com/arrhmdfauzan_' //script link
 global.reactmoji = "💃" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "☬Mikasa||Ackerman☬" //ur sticker watermark packname
-global.author = "nazuaff👻" //ur sticker watermark author
+global.packname = "©Mikasa Ackerman" //ur sticker watermark packname
+global.author = "ig@arrhmdfauzan" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
